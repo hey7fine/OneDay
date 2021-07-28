@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OneDay</string>
+
+    <string name="app_home">主页</string>
+    <string name="app_discovery">发现</string>
+    <string name="app_profile">我的</string>
+</resources>
