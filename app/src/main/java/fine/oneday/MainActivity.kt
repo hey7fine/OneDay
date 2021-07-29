@@ -80,7 +80,6 @@ fun Layer(
         }
         front(expand.value)
     }
-
 }
 
 @Preview(showBackground = true)
@@ -145,7 +144,6 @@ fun DefaultPreview() {
                     .padding(horizontal = 8.dp)
                     .padding(bottom = 4.dp))
             }
-
         }
     }
 }
